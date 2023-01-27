@@ -1,0 +1,19 @@
+{
+  "name": "ecomerce",
+  "version": "1.0.0",
+  "description": "Projeto de modelo de loja virtual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruiserigrafia/ecomerce.git"
+  },
+  "author": "Rui Guilherme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruiserigrafia/ecomerce/issues"
+  },
+  "homepage": "https://github.com/ruiserigrafia/ecomerce#readme"
+}
